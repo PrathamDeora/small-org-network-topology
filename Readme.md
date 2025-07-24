@@ -2,7 +2,7 @@
 
 This project demonstrates a **multi-subnet network topology** designed using **Cisco Packet Tracer**. It consists of multiple PCs, switches, a central router, and a server, segmented into four distinct subnets.
 
-![Network Topology Diagram](./topology.png)
+![Network Topology Diagram](./Topology.png)
 
 ---
 
