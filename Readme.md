@@ -68,8 +68,8 @@ The topology is structured around **4 subnets**, each connected through a centra
 
 ## 👨‍💻 Author
 
-Created by [Your Name]  
-📫 Connect on [LinkedIn](https://linkedin.com) *(optional)*
+Created by [Pratham Deora]  
+📫 Connect on LinkedIn: https://www.linkedin.com/in/pratham-deora/
 
 ---
 
